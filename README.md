@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oEKKOo&show_icons=true&theme=dark)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oEKKOo&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![oEKKOo's GitHub | Languages Over Time](https://stats.quira.sh/oEKKOo/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=oEKKOo)
