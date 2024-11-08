@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oEKKOo&show_icons=true&theme=transparent)
+
 [![oEKKOo's GitHub | Languages Over Time](https://stats.quira.sh/oEKKOo/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=oEKKOo)
